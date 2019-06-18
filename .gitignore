@@ -1,0 +1,4 @@
+cmd/access_server/access_server
+cmd/local_server/local_server
+cmd/local_app/local_app
+cmd/remote_app/remote_app
